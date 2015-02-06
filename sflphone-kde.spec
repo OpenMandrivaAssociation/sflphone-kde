@@ -6,7 +6,7 @@
 Summary:	SFLPhone KDE client
 Name:		sflphone-kde
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Communications
 Url:		http://sflphone.org/
