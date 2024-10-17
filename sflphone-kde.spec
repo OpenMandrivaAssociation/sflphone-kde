@@ -9,7 +9,7 @@ Version:	1.3.0
 Release:	2
 License:	GPLv3+
 Group:		Communications
-Url:		http://sflphone.org/
+Url:		https://sflphone.org/
 Source0:	http://download.kde.org/stable/sflphone/%{version}/src/sflphone-client-kde-%{version}.tar.xz
 Patch0:		sflphone-client-kde-1.3.0-plasma.patch
 Patch1:		sflphone-client-kde-1.3.0-soname.patch
